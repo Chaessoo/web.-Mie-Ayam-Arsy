@@ -1,0 +1,6 @@
+
+{
+  "name": "Mie Ayam Arsy Online",
+  "description": "Website dinamis profesional untuk pemesanan Mie Ayam Arsy dengan fitur manajemen menu, testimoni, dan integrasi WhatsApp.",
+  "requestFramePermissions": ["geolocation"]
+}
